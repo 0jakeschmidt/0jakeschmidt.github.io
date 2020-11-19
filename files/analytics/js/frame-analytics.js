@@ -1,1 +1,1 @@
-alert(orgin);
+alert(origin);
